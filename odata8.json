@@ -2,7 +2,7 @@
     "context": {
         "UnitOfMeasureScale": 0.01,
         "Zup": true,
-        "RepoPath": "https://raw.githubusercontent.com/AsemShabayek/DF_project/main/"
+        "RepoPath": "https://github.com/AsemShabayek/DF_project"
     },
     "scene": [
         "base_link",
